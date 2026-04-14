@@ -2,7 +2,7 @@
 
 Page de connexion responsive pour l'application **Blue Ocean**, développée en HTML et CSS pur.
 
-## 📋 Description
+##  Description
 
 Interface de connexion moderne et épurée comprenant :
 - Un formulaire avec champs Email et Mot de passe
@@ -31,20 +31,26 @@ blue-ocean-login/
 │
 ├── blue-ocean-login.html   # Page principale
 ├── README.md               # Documentation
-└── assets/                 # Images et ressources (optionnel)
-```
+└── assets/   
+│
+├──Images/ 
+├──CSS/
+|
+├──index.css
+├──style.css
+         
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- ✅ Champ Email avec icône intégrée
-- ✅ Champ Mot de passe avec icône cadenas
+- ✅ Champ Email  intégrée
+- ✅ Champ Mot de passe 
 - ✅ Lien "Mot de passe oublié ?"
 - ✅ Bouton de connexion centré
 - ✅ Connexion sociale : Google, Facebook, GitHub
 - ✅ Design responsive (mobile / tablette / desktop)
 - ✅ Animations au focus sur les inputs
 
-## 📱 Responsive
+##  Responsive
 
 | Breakpoint | Comportement |
 |-----------|-------------|
@@ -59,9 +65,6 @@ blue-ocean-login/
 
 ## 👤 Auteur
 
-Développé par **[Votre Nom]**  
-GitHub : [@votre-username](https://github.com/votre-username)
+Développé par **FEZEU BRAYAN**  
+GitHub : [maestro-brayan](https://github.com/maestro-brayan)
 
-## 📄 Licence
-
-Ce projet est sous licence MIT.
